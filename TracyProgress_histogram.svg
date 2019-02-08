@@ -630,18 +630,18 @@ L72 43.2" style="fill:none;stroke:#000000;"/>
    </g>
    <g id="patch_14">
     <path d="
-M518.4 388.8
+M72 43.2
 L518.4 43.2" style="fill:none;stroke:#000000;"/>
    </g>
    <g id="patch_15">
     <path d="
-M72 43.2
-L518.4 43.2" style="fill:none;stroke:#000000;"/>
+M72 388.8
+L518.4 388.8" style="fill:none;stroke:#000000;"/>
    </g>
    <g id="patch_16">
     <path d="
-M72 388.8
-L518.4 388.8" style="fill:none;stroke:#000000;"/>
+M518.4 388.8
+L518.4 43.2" style="fill:none;stroke:#000000;"/>
    </g>
   </g>
  </g>

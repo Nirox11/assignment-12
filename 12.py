@@ -16,4 +16,4 @@ for column in columns:
     df[column] = df[column].astype(float) # convert to float data type instead of string
     plot = df.plot.barh(figsize=(25,25)) # this creates an horizontal bar chart
 plot.get_figure().savefig('DegreesMoneyPlot.svg') # and finally we save the figure
-
+print("success")
